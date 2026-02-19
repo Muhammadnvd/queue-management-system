@@ -316,7 +316,7 @@ main()
 
 		obj.addQueue();
 
-		cout<<"\n\nDo you want enter another customer? input y or Y for Yes and n or N for No : ";
+		cout<<"\n\nDo you want enter another customer? input y or Y for Yes and n or N for No : ";     
 
 		cin>>x;
 
@@ -327,5 +327,6 @@ main()
 	getch();
 
 	return 0;
+
 
 }
